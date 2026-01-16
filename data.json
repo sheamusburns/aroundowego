@@ -1,0 +1,39 @@
+{
+  "announcements": [
+    {
+      "text": "Applications open for March group show at Black Cat Gallery (deadline Feb 20)",
+      "link": "https://blackcatgallery.com"
+    },
+    {
+      "text": "New paintings now on view at Front Street Vintage",
+      "link": ""
+    },
+    {
+      "text": "Call for fiber artists \u2014 Gorgeous Fiber Arts",
+      "link": "https://instagram.com/gorgeousfiberarts"
+    }
+  ],
+  "events": [
+    {
+      "date": "FRI FEB 6",
+      "title": "Opening Night: Summit Challenge No. 4",
+      "venue": "Bull Thistle Art Studio & Gallery",
+      "time": "6\u20138 PM",
+      "link": ""
+    },
+    {
+      "date": "SAT FEB 8",
+      "title": "Open Studio + Weaving Demo",
+      "venue": "Gorgeous Fiber Arts",
+      "time": "11 AM\u20133 PM",
+      "link": ""
+    },
+    {
+      "date": "SUN FEB 9",
+      "title": "Artist Talk: River & Place",
+      "venue": "Tioga Arts Council",
+      "time": "2 PM",
+      "link": ""
+    }
+  ]
+}
