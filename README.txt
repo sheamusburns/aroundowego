@@ -1,4 +1,4 @@
-AroundOwego v1
+AroundOwego v1 (with map)
 
 This site is a simple, static noticeboard for art and creative activity around Owego.
 
@@ -15,5 +15,9 @@ Announcements:
 Events:
 - date, title, venue, time
 - keep it factual
+
+Map:
+- Google Maps embed
+- no API key required
 
 Keep it light.

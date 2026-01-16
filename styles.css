@@ -4,20 +4,24 @@ body {
   background: #f7f6f3;
   color: #2b2b2b;
 }
+
 .wrap {
   max-width: 680px;
   margin: 0 auto;
   padding: 2rem 1.5rem 3rem;
 }
+
 h1 {
   font-size: 2.2rem;
   margin-bottom: 0.25rem;
 }
+
 .tagline {
   font-style: italic;
   color: #555;
   margin-bottom: 2rem;
 }
+
 h2 {
   font-size: 1rem;
   letter-spacing: 0.05em;
@@ -26,38 +30,36 @@ h2 {
   border-bottom: 1px solid #ccc;
   padding-bottom: 0.5rem;
 }
+
 ul {
   padding-left: 1rem;
 }
+
 li {
   margin-bottom: 0.75rem;
 }
+
 .event {
   margin-bottom: 1.75rem;
 }
+
 .event-date {
   font-weight: bold;
   margin-bottom: 0.25rem;
 }
+
 .event-title {
   font-size: 1.05rem;
 }
+
 .event-venue,
 .event-time {
   color: #555;
   font-size: 0.95rem;
 }
+
 footer {
   margin-top: 3rem;
   font-size: 0.9rem;
   color: #666;
-}
-.map-placeholder {
-  background: #e2e0da;
-  height: 180px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  color: #777;
-  margin-top: 1rem;
 }
